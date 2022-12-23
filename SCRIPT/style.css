@@ -1,0 +1,9 @@
+#aditional_info {
+    display: none;
+    background-color: rgba(35, 185, 162, 0.29);
+    border: 4mm ridge rgba(50, 220, 180, 0.6);
+}
+
+.header img{
+    text-align: left;
+}
